@@ -315,6 +315,13 @@ sudo systemctl restart nginx
 ```
 http://<FRONTEND_EC2_IP>
 ```
+## 🔐 Login / Register (IMPORTANT)
+
+- ❌ No default username or password  
+- ✅ Users must **REGISTER first**  
+- ✅ After registration, users can **LOGIN**  
+- 📦 User credentials are securely stored in the database  
+
 
 **Backend API:**
 ```
