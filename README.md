@@ -155,7 +155,7 @@ MYSQL_PASSWORD=admin123
 MYSQL_SSL_MODE=REQUIRED
 
 # MongoDB Configuration
-MONGO_URI=mongodb+srv://pranavmisal1002_db_user:aHd98b1NunKuzqsf@cluster0.lfunyuu.mongodb.net/?appName=Cluster0
+MONGO_URI=mongodb+srv://pranavmisal1002_db_user:aHd98b1NunKuzqsf@cluster0.lfunyuu.mongodb.net/employee_man
 ```
 
 > Replace `<username>` and `<password>` or Copy the connection string with your MongoDB Atlas credentials.
