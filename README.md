@@ -299,7 +299,7 @@ server {
 }
 ```
 
-**Restart Nginx:**
+**After making configuration changes to NGINX, restart the service to apply updates. Restart Nginx:**
 
 ```bash
 sudo systemctl restart nginx
